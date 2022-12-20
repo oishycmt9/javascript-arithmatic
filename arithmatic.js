@@ -1,0 +1,11 @@
+var x =40;
+var y = 9;
+document.write(x+y);
+document.write('<br>');
+document.write(x-y);
+document.write('<br>');
+document.write(x*y);
+document.write('<br>');
+document.write(x/y);
+document.write('<br>');
+document.write(x%y);
